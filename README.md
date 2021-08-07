@@ -1,5 +1,5 @@
 # Music-generation-using-Wavenet
-1. Webscraping the spotify playlist of [chessbrah](https://open.spotify.com/playlist/3Oc7Q4BbPLYxVyzoTblu8O), and download the corresponding playlist in youtube to mp3 format.
+1. Webscraping the spotify playlist of [chessbrah](https://open.spotify.com/playlist/3Oc7Q4BbPLYxVyzoTblu8O), and downloading the corresponding playlist at youtube to mp3 format.
 
 2. Implementation of [WaveNet](https://github.com/ibab/tensorflow-wavenet/) to generate techno music.
 
