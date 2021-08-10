@@ -1,0 +1,6 @@
+pydub
+pafy
+youtube_dl
+vlc
+tensorflow==1.15
+librosa==0.5
