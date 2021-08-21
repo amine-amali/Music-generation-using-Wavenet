@@ -2,6 +2,7 @@
 
 ## Description
 1. Webscraping the spotify playlist of [chessbrah](https://open.spotify.com/playlist/3Oc7Q4BbPLYxVyzoTblu8O), and downloading the corresponding playlist to mp3 format.
+
 Webscraping => Getting the playlist => Use Youtube_dl API to download the playlist => Converting the music clips videos to mp3 format.
 
 2. Implementation of [WaveNet](https://github.com/ibab/tensorflow-wavenet/) to learn to generate techno music.
